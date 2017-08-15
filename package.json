@@ -5,6 +5,6 @@
     "license": "http://tympanus.net/codrops/licensing/",
     "dependencies": {
         "modernizr": "^3.0.0",
-        "jquerypp": "^1.0.1"
+        "jquerypp": "bitovi/jquerypp#1.0.1"
     }
 }
